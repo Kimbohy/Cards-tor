@@ -1,0 +1,11 @@
+#pass{
+    display: flex;
+    flex-wrap: nowrap;
+    position: relative;
+}
+
+#showPassword {
+    position: relative;
+    top: 14px;
+    right: 50px;
+}
